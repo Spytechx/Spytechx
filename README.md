@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Spytechx
+- 👋 #Hi, I’m @Spytechx
 - 👀 I’m interested in becoming a better programmer
 - 🌱 I’m currently writing html, css, scss and javascript, React.js
 - 💞️ I’m looking to collaborate on projects that would enhance my knowledge
@@ -8,3 +8,6 @@
 Spytechx/Spytechx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
++++ GHOST +++ 
+# Dass
