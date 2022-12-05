@@ -1,8 +1,9 @@
-- 👋 #Hi, I’m #@Spytechx
+- 👋 Hi, I’m #@Spytechx
 - 👀 I’m interested in becoming a better programmer
 - 🌱 I’m currently writing html, css, scss and javascript, React.js
 - 💞️ I’m looking to collaborate on projects that would enhance my knowledge
-- 📫 How to reach me ##+2347051847820
+- 📫 How to reach me 
+              ##+2347051847820
 
 <!---
 Spytechx/Spytechx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
