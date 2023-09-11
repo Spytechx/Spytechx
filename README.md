@@ -7,7 +7,7 @@
 
 - [![GitHub Streak](https://streak-stats.demolab.com?user=Spytechx&exclude_days=Sun)](https://git.io/streak-stats)
 
-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=6000&pause=1000&color=001EF7&center=true&multiline=true&width=800&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+%40Spytechx;%F0%9F%91%80+I%E2%80%99m+becoming+a+better+programmer;%F0%9F%8C%B1+I%E2%80%99m+currently+writing+HTML%2C+SCSS+and+JavaScript%2C+ReactJS%2C+C%2C+Python+more+unfolding...;%F0%9F%92%9E%EF%B8%8F+I%E2%80%99m+looking+to+collaborate+on+projects+that+would+enhance+my+knowledge;%F0%9F%93%ABYou+can+Reach+Me+On+%2B234-705-184-7820)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=6000&pause=1000&color=001EF7&center=true&width=800&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+%40Spytechx;%F0%9F%91%80+I%E2%80%99m+becoming+a+better+programmer;%F0%9F%8C%B1+I%E2%80%99m+currently+writing+HTML%2C+SCSS+and+JavaScript%2C+ReactJS%2C+C%2C+Python+more+unfolding...;%F0%9F%92%9E%EF%B8%8F+I%E2%80%99m+looking+to+collaborate+on+projects+that+would+enhance+my+knowledge;%F0%9F%93%ABYou+can+Reach+Me+On+%2B234-705-184-7820)](https://git.io/typing-svg)
 
 
 <!---
