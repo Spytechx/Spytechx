@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&width=450&lines=Spytechx+D+tEcHWeirDoX+%F0%9F%91%BB%F0%9F%A4%96;Welcome+to+the+Home+of+Development;I'd+be+glad+if+you+do+contact+me+for+your+Jobs)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&center=true&width=800&lines=Spytechx+D+tEcHWeirDoX+%F0%9F%91%BB%F0%9F%A4%96;Welcome+to+the+Home+of+Development;I'd+be+glad+if+you+do+contact+me+for+your+Jobs)](https://git.io/typing-svg)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Spytechx&exclude_days=Sun)](https://git.io/streak-stats)
 
